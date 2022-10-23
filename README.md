@@ -5,12 +5,6 @@
 
 To-do-list project for university of Windsor
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!--
 *** If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
